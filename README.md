@@ -26,5 +26,5 @@
 
 you should've already noticed there's a freaky little file called .gitignore
 that mofo contains information about which folders to be excluded from the project
-in other words, fucking put the name of the fucking folder here if you don't fucking want to fucking waste shit tones of fucking space, bitch!!
-in other words, if you have a large file that you want to send manually, you should put it in the folder called "res"
+in other words, fucking put the fucking name of the fucking folder here if you don't fucking want to fucking waste shit tones of fucking space, bitch!!
+in other words, if you have a large file that you want to send manually, you should put it in the folder called "res" (which is already included in .gitignore :P)
